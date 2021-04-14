@@ -1,7 +1,6 @@
-# 100daysofcode
- Desafio de 100 dias estudando alguma tecnologia
-
-1 dia (07/04/21) Ontem comecei o desafio dos 100 dias de código:
+# Desafio #100DaysOfCode
+---
+Repositório responsável por tratar do Desafio do #100DaysOfCode criado pelo [Alex Kallaway](https://twitter.com/ka11away)
 
 Preparei a 'casa' 
 
@@ -12,3 +11,6 @@ Preparei a 'casa'
 Estou fazendo o curso básico de Responsive Web Design
 -------
 segundo dia
+
+
+(repositório em desenvolvimento)
