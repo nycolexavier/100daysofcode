@@ -11,3 +11,4 @@ Preparei a 'casa'
 
 Estou fazendo o curso básico de Responsive Web Design
 -------
+segundo dia
