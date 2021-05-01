@@ -6,6 +6,7 @@ Repositório responsável por tratar do Desafio do #100DaysOfCode criado pelo [A
 
 ![primeiro projeto](img.jpeg)
 
-<h3>Desenvolvido na [maratona de front-end](https://app.rocketseat.com.br/node/maratona-discover-edicao-01/lesson/aula-01) da RocketSeat</h3>
+### Desenvolvido na [maratona de front-end](https://app.rocketseat.com.br/node/maratona-discover-edicao-01/lesson/aula-01) da RocketSeat
+#### Você pode conferir o repositório [aqui](https://github.com/nycolexavier/Maratona-discover)
 
 (developing repository)   
